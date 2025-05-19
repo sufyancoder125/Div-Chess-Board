@@ -1,0 +1,23 @@
+
+ 
+ .box1 {
+      width: 100px;
+      height: 100px;
+      background-color: greenyellow;
+      display: inline-block;
+    }
+
+    .box2 {
+      width: 100px;
+      height: 100px;
+      background-color: red;
+      display: inline-block;
+    }
+
+    .center-icon {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100%;
+      font-size: 40px;
+    }
